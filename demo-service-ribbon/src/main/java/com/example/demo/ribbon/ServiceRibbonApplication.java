@@ -16,7 +16,7 @@ public class ServiceRibbonApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ServiceRibbonApplication.class, args);
-        // 测试
+        // 测试1
     }
 
     @Bean
