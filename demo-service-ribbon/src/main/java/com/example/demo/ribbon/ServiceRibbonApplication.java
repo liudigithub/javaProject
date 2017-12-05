@@ -16,7 +16,11 @@ public class ServiceRibbonApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ServiceRibbonApplication.class, args);
+<<<<<<< HEAD
         // 测试1
+=======
+        // 测试2
+>>>>>>> branch 'master' of https://github.com/liudigithub/javaProject
     }
 
     @Bean
